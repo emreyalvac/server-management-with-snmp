@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec2cc676-9b95-4fab-a550-f26d7390cc83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server-managment-system.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-managment-system/server-managment-system.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/ICpu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <marker date="1548957399716" expanded="true" signature="80:167" ph="{...}" />
+                <marker date="1548957399716" expanded="true" signature="108:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server-managment-system/Controllers/ValuesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding>
+                <marker date="1548967714070" expanded="false" signature="6:329" ph="..." />
+                <marker date="1548967714070" expanded="true" signature="376:1732" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="469:1730" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="545:589" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="655:1724" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="1131:1191" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="1497:1556" ph="{...}" />
+                <marker date="1548967714070" expanded="true" signature="1608:1712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/Cpu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <folding>
+                <marker date="1548954948093" expanded="true" signature="80:251" ph="{...}" />
+                <marker date="1548954948093" expanded="true" signature="110:249" ph="{...}" />
+                <marker date="1548954948093" expanded="true" signature="167:243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-managment-system/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1548953197153" expanded="true" signature="6:449" ph="..." />
+                <marker date="1548953197153" expanded="true" signature="484:1628" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="511:1626" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="570:633" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="856:1010" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="1198:1620" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="1245:1322" ph="{...}" />
+                <marker date="1548953197153" expanded="true" signature="1339:1542" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server-managment-system/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AFFF0CD-737B-40CF-8237-F5063F135BDE/e8/8e23f925/PerformanceCounterPermission.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/9e/2e2f2ab0/ObjectMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server-managment-system/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F67681F9-FF87-4783-9EB1-5D7E3A4E22C3/a4/2dd663f4/OSPlatform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F67681F9-FF87-4783-9EB1-5D7E3A4E22C3/42/ba917838/RuntimeInformation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/Cpu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/083DEAD6-AFFE-4B6D-94C7-E947F1C49512/fd/214d0820/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/ICpu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/083DEAD6-AFFE-4B6D-94C7-E947F1C49512/c8/99eddd2f/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server-managment-system/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/10/8bcad342/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server-managment-system/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/server-managment-system/Repostories/cpu/Cpu.cs" />
+        <option value="$PROJECT_DIR$/server-managment-system/Startup.cs" />
+        <option value="$PROJECT_DIR$/server-managment-system/Repostories/Cpu/Cpu.cs" />
+        <option value="$PROJECT_DIR$/server-managment-system/Repostories/Cpu/ICpu.cs" />
+        <option value="$PROJECT_DIR$/server-managment-system/Controllers/ValuesController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-1" />
+    <option name="y" value="-31" />
+    <option name="width" value="1368" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repostories" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="server-managment-system" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repostories" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Cpu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="server-managment-system: server_managment_system" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/server-managment-system/server-managment-system.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="server_managment_system" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec2cc676-9b95-4fab-a550-f26d7390cc83" name="Default Changelist" comment="" />
+      <created>1548952278804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548952278804</updated>
+      <workItem from="1548952284094" duration="10280000" />
+      <workItem from="1548965893545" duration="1966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12246000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-31" width="1368" height="800" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2035139" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5520833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41666666" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3287037" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32962963" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32962963" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1548952295883" expanded="false" signature="6:255" ph="..." />
+            <marker date="1548952295883" expanded="true" signature="290:617" ph="{...}" />
+            <marker date="1548952295883" expanded="true" signature="317:615" ph="{...}" />
+            <marker date="1548952295883" expanded="true" signature="370:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Repostories/cpu/Cpu.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AFFF0CD-737B-40CF-8237-F5063F135BDE/e8/8e23f925/PerformanceCounterPermission.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="37" column="92" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/083DEAD6-AFFE-4B6D-94C7-E947F1C49512/c8/99eddd2f/Monitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="134" column="48" lean-forward="true" selection-start-line="134" selection-start-column="48" selection-end-line="134" selection-end-column="48" />
+          <folding>
+            <marker date="1548956646636" expanded="true" signature="0:318" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1548956646636" expanded="true" signature="386:4620" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="418:4618" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="582:707" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="758:843" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="1114:1227" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="1292:1427" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="1497:1628" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="1702:2005" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="2068:2166" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="2256:2409" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="2492:2674" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="2868:3001" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="3340:3499" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="3576:3683" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="3749:3821" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="3880:3981" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="4022:4077" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="4222:4341" ph="{...}" />
+            <marker date="1548956646636" expanded="true" signature="4492:4614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F67681F9-FF87-4783-9EB1-5D7E3A4E22C3/a4/2dd663f4/OSPlatform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F67681F9-FF87-4783-9EB1-5D7E3A4E22C3/42/ba917838/RuntimeInformation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/ICpu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <marker date="1548957399716" expanded="true" signature="80:167" ph="{...}" />
+            <marker date="1548957399716" expanded="true" signature="108:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Repostories/Cpu/Cpu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <marker date="1548954948093" expanded="true" signature="80:251" ph="{...}" />
+            <marker date="1548954948093" expanded="true" signature="110:249" ph="{...}" />
+            <marker date="1548954948093" expanded="true" signature="167:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1548953197153" expanded="true" signature="6:449" ph="..." />
+            <marker date="1548953197153" expanded="true" signature="484:1628" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="511:1626" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="570:633" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="856:1010" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="1198:1620" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="1245:1322" ph="{...}" />
+            <marker date="1548953197153" expanded="true" signature="1339:1542" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/083DEAD6-AFFE-4B6D-94C7-E947F1C49512/fd/214d0820/Debug.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+          <folding>
+            <marker date="1548966231757" expanded="true" signature="0:318" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1548966231757" expanded="true" signature="348:10489" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="378:10487" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1004:1089" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1020:1057" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1067:1083" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1124:1277" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1140:1192" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1202:1271" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1311:1462" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1327:1378" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1388:1456" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1521:1533" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1592:1604" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1664:1703" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1765:1804" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="1877:1917" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2011:2095" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2169:2240" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2330:2396" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2508:2908" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2586:2688" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="2707:2741" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3056:3478" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3134:3236" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3255:3289" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3550:3612" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3706:3769" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="3866:4105" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4270:4364" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4441:4503" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4576:5059" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4645:4708" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4721:5045" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="4765:4886" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5134:5188" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5280:5344" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5442:5530" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5624:5760" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5831:5881" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="5971:6099" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="6187:6247" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="6338:6416" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="6505:6581" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="6689:6777" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="6883:6969" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="7062:7142" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="7252:7342" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="7437:7519" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="7631:7723" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="7768:8067" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="8205:8715" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="8242:8284" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="8295:8709" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="8766:8908" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="8965:9188" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9250:9894" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9357:9888" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9471:9639" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9523:9629" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9692:9880" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="9953:10483" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="10063:10079" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="10232:10248" ph="{...}" />
+            <marker date="1548966231757" expanded="true" signature="10461:10477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/10/8bcad342/ActionMethodExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/9e/2e2f2ab0/ObjectMethodExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="95" column="6" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-managment-system/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <marker date="1548967714070" expanded="false" signature="6:329" ph="..." />
+            <marker date="1548967714070" expanded="true" signature="376:1732" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="469:1730" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="545:589" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="655:1724" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="1131:1191" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="1497:1556" ph="{...}" />
+            <marker date="1548967714070" expanded="true" signature="1608:1712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
