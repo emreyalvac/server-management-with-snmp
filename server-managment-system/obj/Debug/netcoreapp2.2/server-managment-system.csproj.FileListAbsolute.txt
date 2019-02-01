@@ -12,3 +12,17 @@
 /home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.RazorTargetAssemblyInfo.cache
 /home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.dll
 /home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.pdb
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/bin/Debug/netcoreapp2.2/server-managment-system.deps.json
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/bin/Debug/netcoreapp2.2/server-managment-system.runtimeconfig.json
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/bin/Debug/netcoreapp2.2/server-managment-system.runtimeconfig.dev.json
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/bin/Debug/netcoreapp2.2/server-managment-system.dll
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/bin/Debug/netcoreapp2.2/server-managment-system.pdb
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.csprojAssemblyReference.cache
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.csproj.CoreCompileInputs.cache
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.RazorAssemblyInfo.cache
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.RazorAssemblyInfo.cs
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.AssemblyInfoInputs.cache
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.AssemblyInfo.cs
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.RazorTargetAssemblyInfo.cache
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.dll
+/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/Debug/netcoreapp2.2/server-managment-system.pdb

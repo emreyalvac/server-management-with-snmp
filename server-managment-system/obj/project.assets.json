@@ -14429,23 +14429,19 @@
     ]
   },
   "packageFolders": {
-    "/home/joshua/.nuget/packages/": {},
-    "/opt/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/emreyalvac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/server-managment-system.csproj",
+      "projectUniqueName": "/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/server-managment-system.csproj",
       "projectName": "server-managment-system",
-      "projectPath": "/home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/server-managment-system.csproj",
-      "packagesPath": "/home/joshua/.nuget/packages/",
-      "outputPath": "/home/joshua/Desktop/NET CORE/server-managment-system/server-managment-system/obj/",
+      "projectPath": "/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/server-managment-system.csproj",
+      "packagesPath": "/home/emreyalvac/.nuget/packages/",
+      "outputPath": "/home/emreyalvac/Desktop/server-management-with-snmp/server-managment-system/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/opt/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/home/joshua/.config/NuGet/NuGet.Config"
+        "/home/emreyalvac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
